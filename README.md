@@ -1,2 +1,2 @@
-# Strange
-Run MAIN.py to play
+# Project Strange
+Run Strange.py to play
